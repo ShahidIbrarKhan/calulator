@@ -1,1 +1,4 @@
-console.log('master');
+function mul(a,b){
+    return a*b;
+}
+mul(4,2)
